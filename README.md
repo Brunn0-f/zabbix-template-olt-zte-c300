@@ -64,9 +64,11 @@ Ele foi projetado para ambientes ISP e redes FTTH, permitindo uma visão complet
 
 ## 🛠️ Requisitos
 
-- Zabbix Server com suporte SNMP (versão compatível)
-- SNMPv2 ou SNMPv3 configurado na OLT
-- OIDs compatíveis com modelo ZTE C300
+## Requisitos
+
+- Zabbix Server versão 6.2 ou superior com suporte SNMP habilitado
+- SNMP configurado e acessível na OLT ZTE C300
+- OID compatíveis com o modelo ZTE C300
 - Importação do arquivo `zbx_export_templates.yaml` no Zabbix
 
 ---
