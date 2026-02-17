@@ -1,4 +1,4 @@
-# 📡 Zabbix Template - OLT ZTE C300
+# 📡 Zabbix Template - OLT ZTE C3xx
 
 Template completo de monitoramento para **OLT ZTE C300** no Zabbix.
 
